@@ -1,5 +1,5 @@
-#Cocktail Recipes
-##The Odin Project Foundations
+# Cocktail Recipes
+## The Odin Project Foundations
 
 This is my first ever project. The skills I used to create this project are:
 
