@@ -15,4 +15,4 @@ This is my first ever project.
     * Unordered Lists
     * Ordered Lists
 
-The recipe content and images used in this project were referenced from www.allrecipes.com.
+The recipe content used in this project was referenced from liquor.com.
