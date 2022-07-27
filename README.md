@@ -4,7 +4,7 @@
 
 This is my first ever project. 
 
-# The skills I used to create this project are:
+### The skills I used to create this project are:
 
 * Git version control from the CLI
 * Basic HTML
