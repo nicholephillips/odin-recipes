@@ -1,3 +1,15 @@
-# Recipes Project | The Odin Project
+#Cocktail Recipes
+##The Odin Project Foundations
 
-**7/27/22:** This is my first project ever. I'm learning how to work inside of the terminal, how to use git for version control, and will be building a recipe website using HTML and CSS.
+This is my first ever project. The skills I used to create this project are:
+
+-Git Version Control from the CLI
+-Basic HTML
+    -Headers
+    -Paragraphs
+    -Links
+    -Images
+    -Unordered Lists
+    -Ordered Lists
+
+The recipe content and images used in this project were referenced from www.allrecipes.com.
