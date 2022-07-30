@@ -14,6 +14,6 @@ This is my first ever project.
     * Images
     * Unordered Lists
     * Ordered Lists
-*CSS Styling
+* CSS Styling
 
 The recipe content and images used in this project were referenced from liquor.com.
