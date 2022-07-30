@@ -1,0 +1,46 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(19, 72, 107);
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(94, 7, 65);
+}
+
+h3 {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#grad {
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(19, 72, 107));
+    background-attachment: fixed;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding-left: 0px;
+    font-size: 36px;
+}
+
+a {
+    color:rgb(66, 126, 51);
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: rgb(19, 33, 99);
+}

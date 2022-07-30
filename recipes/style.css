@@ -1,0 +1,61 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(94, 7, 65);
+}
+
+p {
+    font-size: 16px;
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(35, 116, 19);
+    font-size: 30px;
+}
+
+#grad {
+    background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(19, 72, 107));
+    background-attachment: fixed;
+}
+
+ul, ol {
+    text-align: center;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 20px;
+}
+
+a {
+    color:rgb(209, 27, 118);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: white;
+    background-color: rgb(19, 33, 99);
+}
